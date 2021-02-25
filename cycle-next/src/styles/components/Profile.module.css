@@ -10,7 +10,8 @@
 }
 
 .profileContainer div{
-    margin-left: 1.rem;
+    margin-right: 1rem;
+    padding-left: 9px;
 }
 
 .profileContainer div strong{
